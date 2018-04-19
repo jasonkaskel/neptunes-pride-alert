@@ -8,6 +8,10 @@ My first (and possibly last) game of Neptune's Pride I was in the early stages o
 
 It was with this burst of insight that I decided to write an AWS lambda to check at the start of each cycle whether any new ships are coming at my stars, and if so send a text to me so I'll know right away. Combined with iOS's Emergency Bypass, this meant I would never miss a surprise attack again, nor will I have to needlessly set an alarm for the middle of the night.
 
+
+![Thanks for the wake up call Lizard!](https://i.imgur.com/fWCRdvm.jpg)
+_Thanks for the wake up call Lizard!_
+
 ### DISCLAIMER
 
 This is pretty much the first python, AWS lambda and dynamoDB code I have ever written (individually or together) so it's probably pretty :poop:. But it works!
