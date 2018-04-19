@@ -62,3 +62,5 @@ Finally, [sign up for an AWS account](https://portal.aws.amazon.com/billing/sign
 29. Click `Add`
 
 Now you are for real all done! If you're being attacked, at whatever minute mark you selected in step `28` above you should receive a text message telling you what ships are coming at you! Have fun conquering the galaxy!
+
+\* free-ish. Twilio gives you a bunch of free SMS credits when you sign up. When you run out it's like fractions of a penny per text, so whatever.
