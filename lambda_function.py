@@ -47,7 +47,7 @@ def send_warnings(at_me, my_stars, previous_at_me):
           data={'To': os.environ['TWILIO_TO'],
                 'From': os.environ['TWILIO_FROM'],
                 'Body': ', '.join(warnings)}, 
-          auth=(os.environ['TWILIO_USERNAME'], os.environ['TWILIO_PASSWORD']))
+          auth=(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN']))
 
 def create_at_me_table(client):
     response = client.list_tables()
